@@ -2,6 +2,8 @@
 /generated_cv
 /data_folder/secrets.yaml
 /log/*
+appy
+.appy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
